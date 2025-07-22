@@ -10,7 +10,9 @@
 
  Education: 
  
- Al Hussan International School Al Jubail (JIS), Jubail, KSA, Qatar University, Doha, Qatar
+ Al Hussan International School Al Jubail (JIS), Jubail, KSA 
+ 
+ Qatar University, Doha, Qatar
 
  Company: eSpark Consulting Group, Gulistan-e-Johar, Karachi
 
